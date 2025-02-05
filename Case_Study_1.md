@@ -67,6 +67,10 @@ To ensure scalability and reliability, the chatbot system will follow a **micros
 - **Asynchronous Task Queue (Celery/Kafka)**: Manages long-running processes without blocking interactions.
 - **Auto-Scaling (Kubernetes, AWS Lambda)**: Ensures reliability under high traffic loads.
 
+  
+#### **Architecture Design:**
+![Chatbot Architecture](images/chatbot_architecture.png)
+
 ### 2.2 Core Features to Prioritize
 - **Advanced Natural Language Processing (NLP)**: For accurate understanding and contextual conversation.
 - **Multi-Language Support**: Expands accessibility across different demographics.
