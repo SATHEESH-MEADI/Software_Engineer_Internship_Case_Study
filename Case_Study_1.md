@@ -69,7 +69,7 @@ To ensure scalability and reliability, the chatbot system will follow a **micros
 
   
 #### **Architecture Design:**
-![Chatbot Architecture](images/chatbot_architecture.png)
+![Chatbot Architecture](output.png)
 
 ### 2.2 Core Features to Prioritize
 - **Advanced Natural Language Processing (NLP)**: For accurate understanding and contextual conversation.
